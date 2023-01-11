@@ -2,7 +2,6 @@ import streamlit as st
 import psycopg2
 import pandas as pd
 import numpy as np
-import altair as alt
 
 @st.experimental_singleton
 def init_conection():
