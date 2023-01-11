@@ -1,3 +1,5 @@
-psycopg2-2.9.5
-streamlit-1.16.0
-pandas-1.5.2
+build-essential
+libgtk-3-dev
+libboost-all-dev
+freeglut3-dev
+cmake
