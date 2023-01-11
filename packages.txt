@@ -1,3 +1,2 @@
-psycopg2
-pandas
-numpy
+freeglut3-dev
+libgtk2.0-dev
