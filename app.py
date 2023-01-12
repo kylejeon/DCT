@@ -1,7 +1,6 @@
 import streamlit as st
 import psycopg2
 import pandas as pd
-import numpy as np
 
 @st.experimental_singleton
 def init_conection():
